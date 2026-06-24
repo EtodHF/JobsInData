@@ -29,37 +29,38 @@ Executive Performance Dashboard
 
 ![Dashboard 1](dashboard1.png)
 <br/>
+<br/>
 ![Dashboard 2](dashboard2.png)
 
 ---
 
 ## 🧠 3. Analytical Insights & Core Outputs
 
-### 4.1 Top Ten Earnings by Job Title
+### 1 Top Ten Earnings by Job Title
 Specialized data managers and machine learning infrastructure leads command a steep financial premium over generalist tracks, with Analytics Engineering Managers leading the dataset at an average of $399,880. They are closely followed by Data Science Tech Leads ($375,000) and Managing Directors of Data Science ($300,000), highlighting that highly customized engineering roles receive top-tier compensation.
 
-### 4.2 Bottom Ten Earnings by Job Title
+### 2 Bottom Ten Earnings by Job Title
 The financial floor of the dataset is occupied by roles with lower technical barriers or higher susceptibility to automation, primarily consisting of administrative and general tracking positions. Compliance Data Analysts sit at the absolute bottom with an average salary of $45,000, while Insight Analysts ($47,977) and Machine Learning Specialists ($55,000) represent the baseline entry-tier for operational tracks.
 
-### 4.3 Employment Type Vs Salary 
+### 3 Employment Type Vs Salary 
 Corporate budget depth and strategic commitment heavily dictate compensation across different contract types, with Full-Time (FT) positions securing the highest premium at an average salary of $146,231 to ensure long-term retention. Contractual (CT) roles maintain a strong baseline at $120,837, whereas Part-Time (PT) and Freelance (FL) arrangements offer significantly lower earning potential at $57,800 and $53,500 respectively.
 
-### 4.4 Earnings by Company Size
+### 4 Earnings by Company Size
 Corporate scale does not scale linearly with compensation; instead, mid-sized firms (M) offer the most competitive wages in the dataset, averaging $150,046. This comfortably outpaces large enterprises (L), which average $124,987, while small operations (S) lag behind at $90,849 due to clear capitalization constraints.
 
-### 4.5 Company Location Vs Salary
+### 5 Company Location Vs Salary
 Regional salary power is highly concentrated around local capital markets and digital maturity, resulting in specialized, isolated peaks like Qatar at $300,000 for niche tech hubs. On a broader global scale, the primary market powerhouses are led by the United States and Canada, which boast strong average salaries of $157,919 and $139,971 respectively.
 
-### 4.6 Company Location Vs Size Vs Salary
+### 6 Company Location Vs Size Vs Salary
 When evaluating geography and corporate scale simultaneously, data indicates that the global compensation premium seen in mid-sized firms is not universal, but is instead overwhelmingly driven by North American mid-sized companies aggressively expanding their hiring presence.
 
-### 4.7 Job Title Vs Company Size Vs Salary
+### 7 Job Title Vs Company Size Vs Salary
 The scaling of specialized skillsets varies sharply by organizational size, as evidenced by AI Architects pulling massive averages of $246,500 within nimble mid-sized companies. In contrast, large legacy operations tend to lag behind, enforcing flat compensation caps for equivalent, highly technical titles.
 
-### 4.8 Job Title Vs Earnings per Year
+### 8 Job Title Vs Earnings per Year
 The data market has matured rapidly out of its early experimental phases into highly standardized operational tracks, leading to aggressive financial growth. This structural compounding across key technical roles saw average market salaries leap from $105,800 in 2020/2021 to $152,100 by 2023.
 
-### 4.9 Experience Level vs. Earnings
+### 9 Experience Level vs. Earnings
 A professional's career lifecycle yields high compounding value, starting from an entry-level (EN) ecosystem baseline of $84,639. Compensation scales up by 36.7% for mid-level (MI) developers ($115,763), accelerates sharply for senior specialists (SE) to $161,798, and ultimately peaks at the executive (EX) ceiling of $187,606.
 
 ---
