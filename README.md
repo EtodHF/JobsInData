@@ -3,7 +3,7 @@
 An Excel data cleaning, visualization and analysis of jobs in data from 2020 till 2023
 
 ## 📋 Executive Summary
-* *Analyzed a dataset of jobs in data from 2020 till 2023 containing over 4,000 transaction records to identify recruitment and salary trends. I discovered that The visual dashboard derived from this clean baseline exposes critical strategic pillars: the dramatic increase of salaries within the post-pandemic macroeconomy; with a 43% increase in salaries in 2023 compared to 2020, a massive cash premium allocated to Machine Learning and AI engineering categories, and structural differences in compensation behaviour where mid-sized operations routinely outbid legacy tier-1 enterprises for high-impact talent, with 20% difference.
+* Analyzed a dataset of jobs in data from 2020 till 2023 containing over 4,000 transaction records to identify recruitment and salary trends. I discovered that The visual dashboard derived from this clean baseline exposes critical strategic pillars: the dramatic increase of salaries within the post-pandemic macroeconomy; with a 43% increase in salaries in 2023 compared to 2020, a massive cash premium allocated to Machine Learning and AI engineering categories, and structural differences in compensation behaviour where mid-sized operations routinely outbid legacy tier-1 enterprises for high-impact talent, with 20% difference.
 
 ---
 
@@ -16,6 +16,8 @@ An Excel data cleaning, visualization and analysis of jobs in data from 2020 til
 ## 🧼 1. Data Cleaning & Transformation
 The original dataset contained 4,902 raw data rows. Through structural data workflows, exactly 44 records were flagged, isolated, and expunged due to integrity violations, leaving 4,858 clean transactions for visualization.
 
+![Duplicates Removal](data_cleaning.png)
+
 * **Missing Value Resolution:** Checked for and deleted blank cells and columns. Null entries found in non-critical categorizations were flagged and filled with appropriate data; a single row missing an employment type classification was isolated and resolved to avoid downstream aggregation skips.
 * **Row Pruning & Deduplication:** Exact row-level duplicates resulting from reporting overflows were dropped.
 * **Data Type Standardization:** Converted salary column to currency($) and the year column to text to avoid aggregation.
@@ -25,7 +27,9 @@ The original dataset contained 4,902 raw data rows. Through structural data work
 ## 📊 2. Data Visualization & Dashboard Design
 Executive Performance Dashboard
 
-![Alt Text](assets/your_image_name.png). 
+![Dashboard 1](dashboard1.png)
+<br/>
+![Dashboard 2](dashboard2.png)
 
 ---
 
